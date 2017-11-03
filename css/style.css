@@ -1,0 +1,23 @@
+.container{
+
+  size: 100%;
+  margin: 75px 50px;
+
+}
+
+table{
+
+}
+
+tr{
+
+
+}
+
+td{
+  background-color:red;
+  width: 15px;
+  height: 15px;
+  border-spacing: 5px;
+  border:3px solid white;
+}
